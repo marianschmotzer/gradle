@@ -1,0 +1,21 @@
+{
+  "name": "marianschmotzer/gradle",
+  "version": "0.0.1",
+  "author": "Marian Schmotzer",
+  "summary": "Installs gradle framework",
+  "license": "Apache 2.0",
+  "source": "https://github.com/marianschmotzer/gradle.git",
+  "project_page": "https://github.com/marianschmotzer/",
+  "issues_url": "https://github.com/marianschmotzer/issues",
+  "dependencies": [
+    {
+      "name": "puppetlabs-stdlib",
+      "version_range": ">= 1.0.0"
+    },
+    {
+      "name": "puppet-archive",
+      "version_range": ">= 1.2.0"
+    }
+  ]
+}
+
